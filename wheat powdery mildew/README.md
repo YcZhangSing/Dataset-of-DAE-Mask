@@ -1,2 +1,3 @@
-img fold contains RGB images
-json fold contains the labels
+**img** fold contains RGB images
+
+**json** fold contains the labels
